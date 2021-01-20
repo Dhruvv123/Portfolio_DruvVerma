@@ -1,0 +1,76 @@
+body {
+    background-color: teal;
+    background-image: url(images/2880x1800-yellow-green-solid-color-background.jpg);
+    display: ruby-base-container;
+    justify-content: right;
+    align-self: left;
+    
+
+    
+}
+
+
+
+
+
+.container2 {
+    width: 500px;
+    border: 2px solid white;
+    align-self: right;
+
+}
+
+.container h2 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.description {
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 20px;
+    border: 3px solid white;
+    float: inline-end;
+    
+    
+}
+
+
+
+
+
+
+footer {
+    background-color: rgba(0, 124, 128, 0.726);
+    margin-bottom: auto;
+    height: 30px;
+    
+    padding-bottom: 300px;
+}
+
+h1 {
+    font-size: 84px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(26, 235, 172);
+}
+
+p {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(233, 238, 243);
+}
+
+.navbar-brand {
+    height: 125px;
+    padding-right: 400px;
+    
+}
+
+
+
+
+
+
+
+
+
